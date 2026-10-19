@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "version_code": 5,
+  "version_name": "1.40e",
+  "release_notes": "M8.2: official in-app update acceptance; preserves local photos and M8.1 UI",
+  "apk_url": "https://github.com/Bigkaaj/nexus-mobile-catalog/releases/download/v1.40e/nexus-5.apk",
+  "byte_size": 6060952,
+  "sha256": "ba1b0b480b873575ca7bce3f2039e351215ded6c0b6fcf0b0cf4280a2a393418",
+  "published_at": "2026-10-14T11:31:10+00:00"
+}
